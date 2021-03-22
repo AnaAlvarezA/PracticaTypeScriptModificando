@@ -10,7 +10,7 @@ Después, mediante un módulo principal, llamado main.ts, utilizamos las clases,
 Se crean 3 registros de Persona, y se muestran en el Terminal.
 Se modifica 1 de los registros, realizando una búsqueda por DNI, modificando la dirección, el mail y el teléfono.
 
-Finalmente, se muestran de nuevo los 3 registros, con los cambios realizado
+Finalmente, se muestran de nuevo los 3 registros, con los cambios realizados
 
 
 
