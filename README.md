@@ -1,4 +1,8 @@
-# PracticaTypeScriptModificando
+# PracticaTypeScriptModificando y PracticaTypeScriptAdding (en otro repositorio)
+
+Hice 2 ejercicios: uno modificando y otro añadiendo, por recibir 2 mensajes distintos de cómo hacerlo.
+
+Revisar los 2.
 
 No he utilizado nada más que TypeScript, ya que desarrollándose todo para ser ejecutado en el Terminal, no he creído necesario utilizar ni HTML, ni CSS por no ser este el propósito del ejercicio.
 
